@@ -92,6 +92,7 @@ class TestCard(unittest.TestCase):
         self.assertNotEqual(card8, deck8.cards[-2])
 
 
+
 ############
 ### The following is a line to run all of the tests you include:
 if __name__ == "__main__":
